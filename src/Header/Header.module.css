@@ -1,0 +1,43 @@
+.header {
+    padding-top: 20px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.header ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.header ul li {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.header ul li a {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 17px;
+    color: black;
+}
+
+.telephone {
+    display: flex;
+    align-items: center;
+}
+
+.telephone span {
+    text-align: center;
+    padding-left: 5px;
+    color: #308FA9;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+}

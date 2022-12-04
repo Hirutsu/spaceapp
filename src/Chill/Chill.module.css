@@ -1,0 +1,27 @@
+.chill {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.chillitem {
+    width: 600px;
+    height: 500px;
+    background:#ffffff;
+    box-shadow: 10px 20px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    justify-content: center;
+    display:block;
+    margin-bottom: 50px;
+}
+
+.chillitem img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 45%;
+    width: 100%;
+}
+
+.chillitem div {
+    padding: 20px;
+}

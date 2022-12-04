@@ -1,0 +1,21 @@
+.footer {
+    bottom: 0px;
+    background: #237F98;
+    color: white;
+}
+
+.footer_upper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer_lower {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer_lower div img {
+    padding-right: 20px;
+}
