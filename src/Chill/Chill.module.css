@@ -1,7 +1,10 @@
 .chill {
     display: flex;
-    justify-content: space-evenly;
     flex-wrap: wrap;
+}
+
+.r {
+    margin-left: 300px;
 }
 
 .chillitem {
@@ -13,6 +16,7 @@
     justify-content: center;
     display:block;
     margin-bottom: 50px;
+    margin-right: 50px;
 }
 
 .chillitem img {
